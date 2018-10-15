@@ -1,0 +1,53 @@
+
+.container{
+    display: flex;
+    justify-content: center;    
+    flex-wrap: wrap;
+    margin-top: 80px;
+
+}
+.item1{
+        height: 80px;
+        /* font-weight: bold; */
+        color: white;
+        background-color: black;
+        font-size: 2em;
+
+}
+.list-group-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+.item2{
+    height: 80px;
+    font-size: 2em;
+    color: white;
+    background-color: #52b052;    
+}
+.item3{
+    height: 80px;
+    font-size: 2em;
+    background-color: black;
+    color: white;
+}
+.text1,.text2,.text3{
+    font-size: 1.5em;
+    background-color: #eeeeee;
+}
+li{
+    font-size: 1.1em;
+}
+.card{
+    margin: 10px;
+}
+.button-item{
+    background-color: #eeeeee;
+}
+button{
+    background-color: #52b052;   
+    border: none;
+    color: white;
+    padding: 8px 25px 8px 25px;
+}
